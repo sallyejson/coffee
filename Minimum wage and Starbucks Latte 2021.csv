@@ -1,0 +1,71 @@
+State,Minimum Wage,Minimum Wage Type,Note,Subtotal,Total,Store name,City,Zipcode,Address,Capital,Tax,Tax.rate
+Alabama,7.25,State,Federal,3.45,3.8,Zelda Rd at Carter Hill Rd,Montgomery,36106,"3110 Zelda RoadMontgomery, AL 36106",Y,0.35,10.14492754
+Alaska,10.34,State,Not the capital city but will use this store as the representing store for Alaska.,4.25,4.25,5th Avenue Mall - Level2,Anchorage,99501,"320 West 5th Avenue 224, Anchorage, AK 99501",Y,0,0
+Arizona,12.15,State,NA,3.45,3.75,7th & Roosevelt,Phoenix,85007,"837 N. 7th Avenue Phoenix, AZ 85007",Y,0.3,8.695652174
+Arkansas,11,State,NA,3.45,3.88,JFK & McCain,North Little Rock,72116,"4824 JFK, North Little Rock, AR 72116",Y,0.43,12.46376812
+California,13,State,NA,3.45,3.45,10th & L,Sacramento,95814,"1003 L Street, Sacramento, CA 95814",Y,0,0
+Colorado,12.32,State,NA,3.45,3.73,Central Park & 40th,Denver,80238,"3990 Central Park Blvd100 Denver, CO 80238",Y,0.28,8.115942029
+Connecticut,12,State,NA,3.75,4.03,Hartford Hospital,Hartford,6106,"85 Seymour Street, Hartford, CT 06106",Y,0.28,7.466666667
+Delaware,9.25,State,NA,3.45,3.45,Dover,Dover,19901,"1481 North Dupont Highway Dover, DE 19901",Y,0,0
+Florida,8.65,State,NA,3.45,3.71,1703 W Tennessee,Tallahassee,32304,"1703 W Tennessee, Tallahassee, FL 32304",Y,0.26,7.536231884
+Georgia,7.25,State,NA,3.45,3.76,Equitable,Atlanta,30303,"100 Peachtree St. NW
+Atlanta, GA 30303",Y,0.31,8.985507246
+Hawaii,10.1,State,NA,4.25,4.45,Ala Moana & Coral,Honolulu,96813,"680 Ala Moana Blvd., Honolulu 96813",Y,0.2,4.705882353
+Idaho,7.25,State,NA,3.45,3.66,17th & State/Boise,Boise,83702,"1797 W State St, Boise, ID 83702",Y,0.21,6.086956522
+Illinois,11,State,NA,3.45,3.79,Springfield-6th & Stevenson,Springfield,62703,"745 Adlai Stevenson Dr, Springfield, IL 62703",Y,0.34,9.855072464
+Indiana,7.25,State,NA,3.45,3.76,Circle Tower,Indianapolis,46204,"55 Monument Cir #59, Indianapolis, IN 46204",Y,0.31,8.985507246
+Iowa,7.25,State,NA,3.75,4.01,10th & Locust - Des Moines,Des Moines,50309,"909 Locust St, Des Moines, IA 50309",Y,0.26,6.933333333
+Kansas,7.25,State,NA,3.45,3.77,I-470 & Wanamaker,Topeka,66604,"1223 SW Wanamaker Road 400, Topeka, KS 66604",Y,0.32,9.275362319
+Kentucky,7.25,State,NA,3.45,3.66,US 60 & I-64,Frankfort,40601,"100 Jett Dr., Frankfort, KY 40601",Y,0.21,6.086956522
+Louisiana,7.25,State,NA,3.45,3.79,Nicholson & N Stadium,Baton Rouge,70803,"3642 Nicholson Drive bldg 500, Baton Rouge, LA 70803",Y,0.34,9.855072464
+Maine,12.15,State,NA,3.45,3.73,"Augusta, Western Ave",Augusta,4330,"274 Western Avenue Augusta, ME 04330",Y,0.28,8.115942029
+Maryland,11.75,State,NA,3.75,3.98,122 Main Street,Annapolis,21401,"122 Main Street, Annapolis, MD 21401
+
+",Y,0.23,6.133333333
+Massachusetts,13.5,State,NA,3.45,3.69,Steaming Kettle,Boston,2108,"63-65 Court Street, Boston, MA 02108",Y,0.24,6.956521739
+Michigan,9.65,State,NA,3.75,3.98,"E Lansing, Grand River & Charles",East Lansing,48823,"401 East Grand River Avenue, East Lansing, MI 48823
+
+",Y,0.23,6.133333333
+Minnesota,10,State,$10.00/$8.15,3.45,3.72,2078 Ford Parkway,St. Paul,55116,"2078 FORD PARKWAY, St. Paul, MN 55116",Y,0.27,7.826086957
+Mississippi,7.25,State,NA,3.45,3.76,Lakeland Drive,Flowood,39232,"263 Ridge Way, Flowood, MS 39232",Y,0.31,8.985507246
+Missouri,10.3,State,NA,3.45,3.73,Broadway & Brickton,Columbia,65201,"2500 Broadway Bluffs Drive 100, Columbia, MO 65201",Y,0.28,8.115942029
+Montana,8.75,State,$8.50/$4 10,3.45,3.45,Lyndale & Last Chance - Helena,Helena,59601,"20 E. Lyndale Avenue, Helena, MT 59601",Y,0,0
+Nebraska,9,State,NA,3.75,4.11,12th and P,Lincoln,68508,"1201 P Street, Lincoln, NE 68508",Y,0.36,9.6
+Nevada,9,State,$9.00/$8.00,3.45,3.71,Williams & State - Carson City,Carson City,89701,"1410 William St, Carson City, NV 89701",Y,0.26,7.536231884
+New Hampshire,7.25,State,NA,3.45,3.76,"Portsmouth Green, Lafayette Rd.",Portsmouth,3801,"2454 LaFayette Road Unit 13,  Portsmouth, NH 03801",Y,0.31,8.985507246
+New Jersey,12,State,Most employers,3.75,4,102 South Warren Streetq,Trenton,8608,"102 South Warren Street, Trenton, NJ 08608",Y,0.25,6.666666667
+New Mexico,10.5,State,NA,3.75,4.07,De Vargas Center - Santa Fe,Santa Fe,87501,"191 Paseo de Peralta Suite EOA, Santa Fe, NM 87501",Y,0.32,8.533333333
+New York,12.5,State,NA,3.45,3.73,New Scotland Avenue,Albany,12208,"62 New Scotland Ave Albany, NY 12208",Y,0.28,8.115942029
+North Carolina,7.25,State,NA,3.45,3.73,Capital Blvd. & Huntleigh Dr,Raleigh,27604,"3023 Capital Blvd., Raleigh, NC 27604",Y,0.28,8.115942029
+North Dakota,7.25,State,NA,3.45,3.73,Bismark-600 S. 3rd Street,Bismarck,58504,"600 S. 3rd Street, Bismarck, ND 58504",Y,0.28,8.115942029
+Ohio,8.8,State,$8.80/$7/25,3.45,3.45,Olentangy River Road,Columbus,43212,"1570 Olentangy River Road, Columbus, OH 43212",Y,0,0
+Oklahoma,7.25,State,$7.25/$2,3.75,4.07,Reno & Mickey Mantle at Bricktown,Oklahoma City,73104,"200 S Oklahoma 100, Oklahoma City, OK 73104
+
+",Y,0.32,8.533333333
+Oregon,12,State,NA,3.45,3.45,205 Church St - Salem,Salem,97301,"205 Church St NE, Salem, OR 97301",Y,0,0
+Pennsylvania,7.25,State,NA,3.45,3.66,"Senate Plaza, Camp Hill",Camp Hill,17011,"51 Erford Road Unit 2, Camp Hill, PA",Y,0.21,6.086956522
+Rhode Island,11.5,State,NA,3.45,3.73,Thayer Street,Providence,2906,"218 Thayer Street, Providence, RI 02906",Y,0.28,8.115942029
+South Carolina,7.25,State,NA,3.45,3.8,Garners Ferry & Wood Hill,Columbia,29209,"6070 Garners Ferry Road A, Columbia, SC 29209",Y,0.35,10.14492754
+South Dakota,9.45,State,NA,3.45,3.71,1-90 and E.North - Rapid City,Rapid City,57701,"1734 Eglin Street, Rapid City, SD, 57701",Y,0.26,7.536231884
+Tennessee,7.25,State,NA,3.45,3.77,Vanderbuilt,Nashville,37203,"402 21st Avenue S, Nashville, TN 37203",Y,0.32,9.275362319
+Texas,7.25,State,NA,3.45,3.73,5th & Lamar,Austin,78703,"907 W 5th St Ste 102, Austin, TX 78703
+",Y,0.28,8.115942029
+Utah,7.25,State,NA,3.75,4.08,Crandall Building,Salt Lake City,84101,"80 S. Main Street, Salt Lake City, UT 84101
+",Y,0.33,8.8
+Vermont,11.75,State,NA,3.75,4.13,Maple Tree Place,Williston,5495,"10 Hawthorne Street, Williston, VT 05495",Y,0.38,10.13333333
+Virginia,7.25,State,NA,3.45,3.92,Arthur Ashe Blvd & Myers,Richmond,23230,"1017 N Boulevard, Richmond, VA 23239",Y,0.47,13.62318841
+Washington,13.69,State,NA,3.45,3.77,Cooper Point Village- Olympia,Olympia,98502,"315 Cooper Point Road NW, Olympia, WA 98502",Y,0.32,9.275362319
+West Virginia,8.75,State,NA,3.75,4.01,Charleston Town Center Level 1,Charleston,25389,"3000 Charleston Town Center K-15, Charleston, WV 25389",Y,0.26,6.933333333
+Wisconsin,7.25,State,NA,3.45,3.64,State & Lake,Madison,53703,"661 State Street, Madison, WI 53703
+
+",Y,0.19,5.507246377
+Wyoming,7.25,State,NA,3.75,3.98,"21st & Central Avenue-Cheyenne,WY",Cheyenne,82001,"2111 Central Ave, Cheyenne, WY 82001",Y,0.23,6.133333333
+Washington D.C.,15,Federal,NA,3.45,3.8,Dupont Circle,Washington D.C.,20036,"1501 Connecticut Avenue NW, Washington, DC 20036",Y,0.35,10.14492754
+California,16.07,City,NA,3.65,3.65,565 Clay St.,San Francisco,94111,"565 Clay Street, San Francisco, CA 94111",N,0,0
+New York,11,City,NA,3.95,4.3,Broadway & Thames,New York,10006,"115 Broadway, New York, NY 10006",N,0.35,8.860759494
+California,14.14,City,NA,3.65,3.65,Oakland City Center,Oakland,94612,"1200 Clay Street, Oakland, CA 94612",N,0,0
+California,15.65,City,NA,3.65,3.65,Pavilion Downtown,San Jose,95113,"150 S. First Street, San Jose, CA 95113",N,0,0
+Washington,16.69,City,NA,3.65,4.02,5th & Columbia - Seattle,Seattle,98104,"800 5th Ave, Seattle, WA 98104",N,0.37,10.1369863
+California,15,City,NA,3.65,3.65,2nd & San Pedro,Los Angeles,90012,"232 E 2nd St, Los Angeles, CA 90012",N,0,0
+California,14,City,NA,3.75,3.75,525 B Street,San Diego,92101,"1194 Sixth Ave, San Diego, CA 92101",N,0,0
+California,15,City,NA,3.75,3.75,Santa Cruz Avenue Menlo Park,Menlo Park,94025,"643-693 Santa Cruz Avenue, Menlo Park, CA 94025",N,0,0
