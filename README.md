@@ -9,3 +9,7 @@ CSV file with constructed variables added to the excel file.
 3) Exploratory analysis.R
 
 Used to create the CSV file with the excel file.
+
+4) Peets peppermint mocha 2021.csv
+
+CSV file with the price of Peets peppermint mocha as of December 2021.
